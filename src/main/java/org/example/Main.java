@@ -38,6 +38,7 @@ System.out.println(a > b ? " a больше b" : "a не больше b");
  */
         Scanner scanner = new Scanner(System.in);
 
+
         System.out.print("Введите логин: ");
         String login = scanner.nextLine();
         switch (login) {
